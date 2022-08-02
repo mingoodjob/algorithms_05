@@ -10,7 +10,7 @@ cnt = 0
 high = 0
 
 while True:
-    high += A #2 #3 #4 #5
+    high += A #2 #3 #4 #5   
     cnt += 1 #1 #2 #3
     if V <= high:
         break
